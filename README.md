@@ -2,6 +2,4 @@
 
 # SMTPSendEmail
 
-### Description
-
 The SMTP email sending client.
